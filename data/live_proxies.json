@@ -37,12 +37,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "112.78.138.164:5678",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "81.12.157.98:5678",
       "country": "RO",
       "protocol": "SOCKS4",
@@ -181,12 +175,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "80.78.78.106:65530",
-      "country": "AL",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "88.245.138.87:1080",
       "country": "TR",
       "protocol": "SOCKS4",
@@ -243,18 +231,6 @@
     {
       "proxy": "45.95.233.128:1082",
       "country": "FR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "96.9.77.71:51080",
-      "country": "KH",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "122.15.255.229:60606",
-      "country": "IN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -367,38 +343,14 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "160.20.165.242:8080",
-      "country": "EC",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "197.157.192.168:1080",
       "country": "BI",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
     {
-      "proxy": "202.123.183.66:5678",
-      "country": "LA",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "36.64.27.123:5678",
       "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "64.49.67.164:5678",
-      "country": "US",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.1.105.10:4153",
-      "country": "MY",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -445,12 +397,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.143.214.77:5678",
-      "country": "IN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.159.225.30:1080",
       "country": "ID",
       "protocol": "SOCKS4",
@@ -483,24 +429,6 @@
     {
       "proxy": "103.86.116.193:1080",
       "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.87.81.86:5678",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "125.227.169.85:38157",
-      "country": "TW",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "131.108.112.222:4153",
-      "country": "BR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -595,12 +523,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "212.50.19.150:4153",
-      "country": "BG",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "46.98.193.59:5678",
       "country": "UA",
       "protocol": "SOCKS4",
@@ -609,12 +531,6 @@
     {
       "proxy": "83.219.1.130:5678",
       "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "85.228.42.180:4153",
-      "country": "SE",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -781,12 +697,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "200.80.227.234:4145",
-      "country": "AR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "202.51.179.105:3629",
       "country": "BD",
       "protocol": "SOCKS4",
@@ -853,12 +763,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.146.185.5:1083",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.162.196.117:5678",
       "country": "IN",
       "protocol": "SOCKS4",
@@ -907,12 +811,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "176.118.232.12:5678",
-      "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "176.88.166.190:5678",
       "country": "TR",
       "protocol": "SOCKS4",
@@ -921,12 +819,6 @@
     {
       "proxy": "177.85.65.177:4153",
       "country": "BR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "183.89.217.91:4153",
-      "country": "TH",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -943,20 +835,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "81.91.157.133:5678",
-      "country": "IR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.154.113.244:4153",
       "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.143.8.126:51951",
-      "country": "IN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -973,20 +853,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.41.32.250:51951",
-      "country": "IN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "105.235.201.234:32639",
       "country": "NG",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "109.245.110.145:4145",
-      "country": "RS",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1033,12 +901,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "119.17.204.225:1080",
-      "country": "VN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "131.161.68.41:35944",
       "country": "BR",
       "protocol": "SOCKS4",
@@ -1047,12 +909,6 @@
     {
       "proxy": "159.148.146.65:5678",
       "country": "LV",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "177.131.119.185:5432",
-      "country": "BR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1069,20 +925,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "179.189.249.61:5432",
-      "country": "BR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "200.192.236.242:1080",
       "country": "CR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "212.46.242.185:1080",
-      "country": "RU",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1099,12 +943,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "70.60.132.130:5678",
-      "country": "US",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "113.161.134.128:1080",
       "country": "VN",
       "protocol": "SOCKS4",
@@ -1113,12 +951,6 @@
     {
       "proxy": "119.63.95.3:4153",
       "country": "TH",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "122.102.41.226:4153",
-      "country": "ID",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1189,26 +1021,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "213.6.68.210:4145",
-      "country": "PS",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "222.165.215.117:52667",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "222.212.85.149:5678",
       "country": "CN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "36.67.88.77:4153",
-      "country": "ID",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1321,12 +1135,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "218.26.101.226:53813",
-      "country": "CN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "45.70.188.10:4153",
       "country": "BR",
       "protocol": "SOCKS4",
@@ -1335,12 +1143,6 @@
     {
       "proxy": "80.92.227.185:5678",
       "country": "UA",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "85.114.45.210:4153",
-      "country": "HR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1357,12 +1159,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "87.228.228.101:4145",
-      "country": "CY",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "92.42.8.5:4145",
       "country": "RU",
       "protocol": "SOCKS4",
@@ -1375,31 +1171,7 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "102.214.147.147:4153",
-      "country": "ZA",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.112.234.33:5678",
-      "country": "IN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.143.214.81:5678",
-      "country": "IN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.167.156.88:1080",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.196.7.38:4153",
       "country": "IN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
@@ -1425,12 +1197,6 @@
     {
       "proxy": "105.214.105.25:5678",
       "country": "ZA",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "109.106.196.250:4145",
-      "country": "RU",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1513,12 +1279,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "160.250.226.94:1081",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "168.196.24.29:60606",
       "country": "AR",
       "protocol": "SOCKS4",
@@ -1551,12 +1311,6 @@
     {
       "proxy": "176.88.191.150:1080",
       "country": "TR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "177.125.212.244:4145",
-      "country": "BR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1603,12 +1357,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "186.190.228.83:4153",
-      "country": "CO",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "186.194.127.41:4153",
       "country": "BR",
       "protocol": "SOCKS4",
@@ -1621,20 +1369,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "190.109.72.41:33633",
-      "country": "BR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "196.0.111.186:46048",
       "country": "UG",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "200.70.56.84:1080",
-      "country": "AR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1645,20 +1381,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "221.226.188.218:10800",
-      "country": "CN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "36.95.245.81:5678",
       "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "38.41.225.174:8888",
-      "country": "GT",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1671,30 +1395,6 @@
     {
       "proxy": "45.163.207.18:1080",
       "country": "EC",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "58.218.169.186:10800",
-      "country": "CN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "62.148.236.156:10808",
-      "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "68.64.179.186:1080",
-      "country": "HK",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "78.111.112.118:4145",
-      "country": "CZ",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1737,18 +1437,6 @@
     {
       "proxy": "101.109.245.200:4153",
       "country": "TH",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "102.164.251.242:4153",
-      "country": "GQ",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.152.92.131:21080",
-      "country": "ID",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1837,18 +1525,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "5.253.59.150:1082",
-      "country": "NL",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "5.254.178.160:10801",
-      "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "51.159.149.245:80",
       "country": "FR",
       "protocol": "SOCKS4",
@@ -1857,12 +1533,6 @@
     {
       "proxy": "61.191.119.134:10800",
       "country": "CN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "69.164.244.200:1080",
-      "country": "US",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1887,12 +1557,6 @@
     {
       "proxy": "80.78.73.120:65530",
       "country": "AL",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "88.213.214.254:4145",
-      "country": "BG",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -1941,12 +1605,6 @@
     {
       "proxy": "103.115.198.39:5678",
       "country": "PK",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.160.56.127:10101",
-      "country": "ID",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2005,12 +1663,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "116.104.54.38:1081",
-      "country": "VN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "117.198.221.34:4153",
       "country": "IN",
       "protocol": "SOCKS4",
@@ -2030,12 +1682,6 @@
     },
     {
       "proxy": "167.250.137.129:1080",
-      "country": "BR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "177.26.112.65:5678",
       "country": "BR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
@@ -2077,12 +1723,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "186.1.182.194:4153",
-      "country": "CO",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "186.224.225.26:42648",
       "country": "BR",
       "protocol": "SOCKS4",
@@ -2097,18 +1737,6 @@
     {
       "proxy": "192.144.37.69:9050",
       "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "192.163.200.82:17071",
-      "country": "US",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "195.78.113.38:4153",
-      "country": "UA",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2167,12 +1795,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "41.75.84.86:4153",
-      "country": "NG",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "43.160.255.142:7890",
       "country": "SG",
       "protocol": "SOCKS4",
@@ -2180,12 +1802,6 @@
     },
     {
       "proxy": "45.117.29.137:10888",
-      "country": "IN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "45.249.50.137:4153",
       "country": "IN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
@@ -2209,20 +1825,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "27.147.218.182:1080",
-      "country": "BD",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "27.72.122.228:51067",
       "country": "VN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "31.168.143.90:1080",
-      "country": "IL",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2239,26 +1843,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "36.95.189.165:5678",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "37.26.86.206:4145",
-      "country": "AL",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "45.162.225.114:59341",
       "country": "BR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "45.172.176.1:59341",
-      "country": "AR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2269,44 +1855,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "46.245.123.30:1080",
-      "country": "IR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "46.8.60.34:1080",
-      "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "47.242.218.248:9898",
-      "country": "HK",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "47.254.36.25:11080",
-      "country": "US",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "47.86.236.10:9898",
-      "country": "HK",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "49.0.156.20:32000",
       "country": "MN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "5.157.64.213:1080",
-      "country": "GB",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2371,30 +1921,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "89.237.33.129:51549",
-      "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "92.247.31.130:1080",
-      "country": "BG",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "94.103.15.230:11080",
-      "country": "MD",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "94.156.114.45:1080",
-      "country": "DE",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "94.247.241.70:51006",
       "country": "RU",
       "protocol": "SOCKS4",
@@ -2443,36 +1969,6 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.132.52.223:1080",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.146.185.172:1083",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.151.155.20:11080",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.151.226.11:12",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.151.226.12:12",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.155.42.38:1080",
       "country": "BD",
       "protocol": "SOCKS4",
@@ -2486,12 +1982,6 @@
     },
     {
       "proxy": "103.161.62.29:1080",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.161.62.5:1080",
       "country": "ID",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
@@ -2521,20 +2011,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "103.25.209.50:10101",
-      "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "103.43.128.123:5678",
       "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "103.59.200.26:4145",
-      "country": "IN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2547,30 +2025,6 @@
     {
       "proxy": "103.61.116.138:5678",
       "country": "ID",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "104.239.83.248:9052",
-      "country": "TR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "109.123.251.109:1080",
-      "country": "FR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "109.197.55.234:1080",
-      "country": "RU",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "109.224.22.36:51372",
-      "country": "IQ",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2611,20 +2065,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "125.26.4.197:4145",
-      "country": "TH",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "128.199.104.190:41354",
       "country": "SG",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "136.232.116.2:43314",
-      "country": "IN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2635,32 +2077,14 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "150.129.115.253:6667",
-      "country": "IN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "150.129.170.17:5678",
       "country": "IN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
     {
-      "proxy": "152.70.237.238:3128",
-      "country": "KR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "154.79.251.168:1080",
       "country": "KE",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "157.90.113.23:9052",
-      "country": "DE",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2677,20 +2101,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "170.244.64.198:31476",
-      "country": "BR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "171.221.174.186:10800",
       "country": "CN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "176.120.32.135:5678",
-      "country": "UA",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2727,12 +2139,6 @@
     {
       "proxy": "185.32.4.110:4153",
       "country": "PL",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "186.194.234.18:4153",
-      "country": "BR",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2775,12 +2181,6 @@
     {
       "proxy": "188.132.249.66:1080",
       "country": "TR",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "188.93.64.242:4153",
-      "country": "RU",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2833,50 +2233,8 @@
       "source": "ProxRipper"
     },
     {
-      "proxy": "2.115.212.62:48293",
-      "country": "IT",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "200.105.192.6:5678",
-      "country": "BO",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "202.131.246.250:5678",
-      "country": "MN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "202.166.196.105:48293",
-      "country": "NP",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
       "proxy": "202.70.80.153:5678",
       "country": "NP",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "203.174.26.129:4153",
-      "country": "MN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "203.174.26.137:4153",
-      "country": "MN",
-      "protocol": "SOCKS4",
-      "source": "ProxRipper"
-    },
-    {
-      "proxy": "203.174.26.141:4153",
-      "country": "MN",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
     },
@@ -2885,8 +2243,506 @@
       "country": "KH",
       "protocol": "SOCKS4",
       "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.200.15.226:1080",
+      "country": "BD",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.200.28.149:1080",
+      "country": "BD",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "123.253.124.28:5678",
+      "country": "IN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "125.209.110.83:1981",
+      "country": "PK",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "129.205.244.158:1080",
+      "country": "BW",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "139.196.95.28:7890",
+      "country": "CN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "143.137.116.72:1080",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "144.31.189.114:1080",
+      "country": "DE",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "144.31.255.9:1080",
+      "country": "DE",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "147.45.60.250:1082",
+      "country": "US",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "157.15.62.169:1080",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "159.192.139.42:5678",
+      "country": "TH",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "160.22.22.85:5678",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "162.216.185.241:1084",
+      "country": "CA",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "168.227.158.53:4145",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "170.244.0.179:4145",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "170.247.43.142:32812",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "170.81.108.153:4153",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "170.81.141.254:61437",
+      "country": "MX",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "175.139.200.17:4153",
+      "country": "MY",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "177.131.121.208:5432",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "177.184.67.93:4145",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "179.189.253.193:5432",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "185.147.69.48:1080",
+      "country": "PL",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "185.79.243.153:38431",
+      "country": "PL",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "187.85.151.57:5432",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.109.72.10:33633",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.109.72.33:33633",
+      "country": "BR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.140.31.195:9900",
+      "country": "PA",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.144.224.182:44550",
+      "country": "CO",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "190.18.170.230:5678",
+      "country": "AR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "192.210.196.4:1080",
+      "country": "US",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.200.245.132:1080",
+      "country": "UA",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "195.78.100.162:3629",
+      "country": "UA",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "196.15.250.17:4153",
+      "country": "ZA",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "200.108.50.254:4145",
+      "country": "PA",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.144.134.150:5678",
+      "country": "BT",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.40.177.94:5678",
+      "country": "BD",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.79.47.159:10800",
+      "country": "NP",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "202.84.76.190:5678",
+      "country": "KH",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "213.197.136.218:5678",
+      "country": "LT",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "213.21.53.119:4153",
+      "country": "RU",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "213.248.39.166:4153",
+      "country": "RU",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "217.17.112.98:1080",
+      "country": "RU",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "36.94.119.218:4145",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.130.38.45:51029",
+      "country": "US",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.230.196.98:48200",
+      "country": "IN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "43.252.238.238:4153",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "45.115.115.37:9090",
+      "country": "BD",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "46.10.198.10:4153",
+      "country": "BG",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "46.47.82.16:4153",
+      "country": "BG",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "47.86.94.69:9898",
+      "country": "HK",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "49.207.177.65:5678",
+      "country": "IN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "5.160.103.246:8080",
+      "country": "IR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "5.23.104.251:1080",
+      "country": "RU",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "57.128.249.250:9052",
+      "country": "PL",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "62.133.62.27:1082",
+      "country": "FR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "62.201.212.198:4673",
+      "country": "IQ",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "65.20.158.88:10000",
+      "country": "IQ",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "67.206.213.202:55555",
+      "country": "PR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "78.109.200.168:9910",
+      "country": "IR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "80.191.40.131:5678",
+      "country": "IR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "81.12.169.254:4153",
+      "country": "RO",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "81.162.249.129:4153",
+      "country": "UA",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "85.105.194.113:4153",
+      "country": "TR",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "85.132.139.45:4153",
+      "country": "CZ",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "85.187.5.66:48293",
+      "country": "BG",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "92.42.8.20:4145",
+      "country": "RU",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "95.188.83.253:1080",
+      "country": "RU",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "101.96.117.169:1080",
+      "country": "VN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "102.64.116.97:4145",
+      "country": "CG",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.115.255.225:36331",
+      "country": "BD",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.120.165.132:1080",
+      "country": "BD",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.131.156.90:6789",
+      "country": "BD",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.167.156.34:1080",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.168.246.3:4153",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.177.20.27:1080",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.224.48.41:31433",
+      "country": "IN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.36.35.251:5678",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.48.183.113:4145",
+      "country": "IN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.60.186.21:52195",
+      "country": "IN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.86.1.2:4145",
+      "country": "IN",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
+    },
+    {
+      "proxy": "103.88.204.70:1080",
+      "country": "ID",
+      "protocol": "SOCKS4",
+      "source": "ProxRipper"
     }
   ],
-  "count": 481,
-  "updated": 1789065151.459858
+  "count": 457,
+  "updated": 1789076868.0834427
 }
